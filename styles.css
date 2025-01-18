@@ -1,12 +1,13 @@
 ul{
 	list-style-type:none;
+	display:flex;
 }
 ul li{
 	margin-right:1rem;
-	display:inline;
+
 }
 
-nav{
+.container{
 	padding:10px;
 	background-color:#D3D3D3;
 }
